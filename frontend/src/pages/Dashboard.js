@@ -13,6 +13,7 @@ const Dashboard = () => {
       },
     ],
   };
+
   return (
     <div>
       <h2>Revenue Overview</h2>
